@@ -110,7 +110,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    backgroundColor: "#F5FCFF"
   },
   activityIndicator: {
     alignItems: "center",
